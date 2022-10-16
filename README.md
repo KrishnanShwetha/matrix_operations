@@ -1,7 +1,7 @@
 # matrix_operations
 This project implements functions of matrix operations that modify an image
 
-> **_NOTE:_**  Read jupyter notebook to view image manipulation using KMeans on CIFER-10 dataset
+> **_NOTE:_**  View jupyter notebook to view image manipulation using KMeans on CIFER-10 dataset
 
 functions:
 - print_matrix: prints the specified matrix in rectangular form.
